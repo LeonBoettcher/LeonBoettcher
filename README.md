@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeonBoettcher</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonboettcher&label=Profile%20views&color=0e75b6&style=flat" alt="leonboettcher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonboettcher&label=Profile%20views&color=0e75b6&style=flat" alt="Leon" /> </p>
 
 - 🌱 I’m currently learning ** Website Creation -> learning NextJs and React**
 
